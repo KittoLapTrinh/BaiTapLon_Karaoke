@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SourceCode"/>
+	<classpathentry kind="lib" path="Đóng gói/PTUD_Nhom28_Quanlykaraoke.jar"/>
+	<classpathentry kind="lib" path="Package/PTUD_Nhom28_Quanlykaraoke.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
